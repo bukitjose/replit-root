@@ -10,7 +10,7 @@
     * Thanks For All Member { IndoSec }, Yang Telah Membantu Proses Pembuatan Shell,Dan Dari Shell Lain Untuk Inspirasinya
 
     * { IndoSec sHell }
-    * ©2019 { IndoSec } -Holiq-
+    * Â©2019 { IndoSec } -Holiq-
     * Contact Me? fb.com/holiq.xid, WhatsApp? Cek Bio Fb
     * Nb: shell ini blm sepenuhnya selesai, jadi kalau menemukan error/tampilan tidak bagus/tidak responsive harap dimaklumi.  V 0.2
 */
