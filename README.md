@@ -34,6 +34,9 @@ cd replit-root
 **Extension**
 <p>If you still want more you can install metasploit too by typing msfconsole in the shell (the shell in the replit dashboard) and it will install metasploit to your replit.</p>
 
+**Reverse Shell**
+<p>If you still want to reverse shell the system you can use popular reverse shell tools like p0wny-shell: https://github.com/flozz/p0wny-shell</p>
+
 **Recovery**
 <p>I don't know why i just want to make recovery in python so if you want to go to recovery like rooting a phone you can use the recovery.py file that you cloned from this github.</p>
 
