@@ -8,6 +8,8 @@
 
 <p>This project is still in beta but you can try it but DON'T DELETE RUNNER FOLDER OR YOUR REPLIT WON'T WORK ANYMORE</p>
 
+**THIS PROJECT IS ONLY TO ROOT PHP WEB SERVER REPL**
+
 # Tutorial
 
 <p>To root/gain access to the system, we need to prepare the repl first, for example you make php web server and then you can root the repl using tutorial below</p>
