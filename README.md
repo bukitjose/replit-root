@@ -2,7 +2,7 @@
 
 # About
 
-<p>Root Replit is a project that make you can do more at your replit like see system files/creating files in a system directory, etc</p>
+<p>Root Replit is a project that makes you do more at your replit, like see system files, create files in a system directory, etc.</p>
 
 # Warning
 
