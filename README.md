@@ -29,10 +29,10 @@ cd replit-root
 <p>Next we have to exploit the system using the shell so from shell you can see many info like ip address, folder/file, or even can run a command</p>
 
 **Thats it**
-<p>Thats it you have successfully root your system, in the basic terms "Root" is gaining access to system files which we done before.</p>
+<p>Thats it you have successfully root your system, in the basic terms "Root" is gaining access to system files which give the user freedom to add/remove file, administrative permission, etc</p>
 
 **Extension**
-<p>If you still want more you can install metasploit too by typing msfconsole in the shell (the shell in the replit dashboard) and it will install metasploit to your replit.</p>
+If you still want more, you can install Metasploit too by typing `msfconsole` in the shell (the shell in the replit dashboard), and it will install Metasploit on your replit.
 
 **Reverse Shell**
 <p>If you still want to reverse shell the system you can use popular reverse shell tools like p0wny-shell: https://github.com/flozz/p0wny-shell</p>
@@ -41,6 +41,6 @@ cd replit-root
 <p>I don't know why i just want to make recovery in python so if you want to go to recovery like rooting a phone you can use the recovery.py file that you cloned from this github.</p>
 
 **Special Thanks**
-<p>Thank you to all the programmer who code the indosec.php its very usefull.</p>
+<p>Thank you to all the programmers who coded indosec.php. It's very useful.</p>
 
 **Have fun**
