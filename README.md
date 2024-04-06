@@ -40,4 +40,7 @@ cd replit-root
 **Recovery**
 <p>I don't know why i just want to make recovery in python so if you want to go to recovery like rooting a phone you can use the recovery.py file that you cloned from this github.</p>
 
+**Special Thanks**
+<p>Thank you to all the programmer who code the indosec.php its very usefull.</p>
+
 **Have fun**
