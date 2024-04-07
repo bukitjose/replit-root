@@ -39,7 +39,7 @@ If you still want more, you can install Metasploit too by typing `msfconsole` in
 <p>If you want to try other root project you can try https://github.com/techcode1001/replit_root</p>
 
 **Recovery**
-<p>I don't know why i just want to make recovery in python so if you want to go to recovery like rooting a phone you can use the recovery.py file that you cloned from this github.</p>
+<p>I don't know why i just want to make recovery in python so if you want to go to recovery like rooting a phone you can use the recovery.py file that you cloned from this github. (Its just for fun)</p>
 
 **Special Thanks**
 <p>Thank you to all the programmers who coded indosec.php. It's very useful.</p>
