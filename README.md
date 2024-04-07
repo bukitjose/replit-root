@@ -10,7 +10,7 @@ This project is still in beta, note that if you want to be a superuser, you can'
 
 # Tutorial
 
-<p>To root or gain access to the system, we need to prepare the repl first. For example, you make a PHP web server, and then you can root the repl using the tutorial below.</p>
+<p>To root or gain access to the system, we need to prepare the repl first. you can make a PHP web server repl, and then you can root the repl using the tutorial below.</p>
 
 **Clone Script**
 
