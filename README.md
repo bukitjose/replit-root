@@ -24,7 +24,7 @@ cd replit-root
 <p>To test the shell you can go to your repl website and add /indosec.php after the website url, example: www.yourrepl.com/indosec.php if its success it will require a password, the password is: IndoSec</p>
 
 **Exploiting the system**
-<p>Next we have to exploit the system using the shell so from shell you can see many info like ip address, folder/file, or even can run a command</p>
+<p>Next we have to exploit the system using the shell so from shell you can see many info like ip address, folder/file, or even can run a command. From there you can travel through many system folder that replit won't allow you.</p>
 
 **Thats it**
 <p>Thats it you have successfully root your system, in the basic terms "Root" is gaining access to system files which give the user freedom to add/remove file, administrative permission, etc</p>
