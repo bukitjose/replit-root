@@ -30,6 +30,7 @@ cd replit-root
 <p>Thats it you have successfully root your system, in the basic terms "Root" is gaining access to system files which give the user freedom to add/remove file, administrative permission, etc</p>
 
 **Extension**
+
 If you still want more, you can install Metasploit too by typing `msfconsole` in the shell (the shell in the replit dashboard), and it will install Metasploit on your replit.
 
 **Reverse Shell**
