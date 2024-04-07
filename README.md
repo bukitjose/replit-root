@@ -4,7 +4,7 @@
 
 # Warning
 
-This project is still in beta, note that if you want to be a superuser, you can't because its protected with password, the IT/Administrator of replit has secure the root password so i don't know the password of it i try brute-force but still doesn't work at all, but you can try to crack the password too just type `su` on your replit terminal and good luck. but DON'T DELETE RUNNER FOLDER OR YOUR REPLIT WON'T WORK ANYMORE
+This project is still in beta, note that if you want to be a superuser, you can't because its protected with password, the IT/Administrator of replit has secure the root password so i don't know the password of it i try brute-force but still doesn't work at all, but you can try to crack the password too just type `su` on your replit terminal and good luck.
 
 **THIS PROJECT IS ONLY TO ROOT PHP WEB SERVER REPL**
 
